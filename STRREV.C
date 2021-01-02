@@ -9,7 +9,7 @@ void main()
   clrscr();
 
   printf("Enter the string");
-  scanf(" %s ", &str);
+  scanf(" %s", &str);
 
   while(str[i] != '\0')
   {
