@@ -7,3 +7,4 @@ Codes while I learn
 02 january program to declare and call a structure
 04 january program to find transpose of matrix 
 14 january program to find hcf using loop added
+14 january program to find lcm using loop added
