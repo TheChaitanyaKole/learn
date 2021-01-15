@@ -8,3 +8,4 @@ Codes while I learn
 04 january program to find transpose of matrix 
 14 january program to find hcf using loop added
 14 january program to find lcm using loop added
+15 january program to find max and min element in array
