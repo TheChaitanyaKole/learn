@@ -10,3 +10,4 @@ Codes while I learn
 14 january program to find lcm using loop 
 15 january program to find max and min element in array
 19 january program to check if number is prime or not 
+20 january program to print prime numbers between two numbers
